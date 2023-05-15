@@ -7,15 +7,15 @@ The Goolge Advanced Data Analytics Certificate consisted of 7 courses that cover
 ## Notebooks
 This repository includes five Jupyter notebooks which each focus on a specific stage of the data project lifecycle:
 
-**01_data_inspection.ipynb:** This notebook encompasses the initial data inspection and preprocessing steps. It covers tasks such as data loading, cleaning, handling missing values, and data transformation.
+**02_data_inspection.ipynb:** This notebook encompasses the initial data inspection and preprocessing steps. It covers tasks such as data loading, cleaning, handling missing values, and data transformation.
 
-**02_exploratory_data_analysis.ipynb:** In this notebook, exploratory data analysis (EDA) techniques were applied to gain insights into the dataset. It includes visualisations, summary statistics, correlation analysis, and other techniques to understand the relationships between variables.
+**03_exploratory_data_analysis.ipynb:** In this notebook, exploratory data analysis (EDA) techniques were applied to gain insights into the dataset. It includes visualisations, summary statistics, correlation analysis, and other techniques to understand the relationships between variables.
 
-**03_statistical_analysis.ipynb:** The third notebook focuses on statistical analysis of the dataset. It includes hypothesis testing, statistical inference, and other statistical techniques to examine the significance of variables and identify patterns or trends.
+**04_statistical_analysis.ipynb:** The third notebook focuses on statistical analysis of the dataset. It includes hypothesis testing, statistical inference, and other statistical techniques to examine the significance of variables and identify patterns or trends.
 
-**04_regression_modelling.ipynb:** This notebook explores regression modeling techniques to predict taxi gratuities. It covers various regression algorithms, model selection, feature engineering, model evaluation, and interpretation.
+**05_regression_modelling.ipynb:** This notebook explores regression modeling techniques to predict taxi gratuities. It covers various regression algorithms, model selection, feature engineering, model evaluation, and interpretation.
 
-**05_machine_learning.ipynb:** The final notebook explores advanced machine learning techniques for taxi gratuity prediction. It focuses on the application of two powerful algorithms: Random Forest and Gradient Boosting. The notebook covers the entire machine learning pipeline, including model training, evaluation, hyperparameter tuning, and the selection of the best-performing model. By leveraging these techniques, accurate predictions of taxi gratuity can be made with high precision and reliability.
+**06_machine_learning.ipynb:** The final notebook explores advanced machine learning techniques for taxi gratuity prediction. It focuses on the application of two powerful algorithms: Random Forest and Gradient Boosting. The notebook covers the entire machine learning pipeline, including model training, evaluation, hyperparameter tuning, and the selection of the best-performing model. By leveraging these techniques, accurate predictions of taxi gratuity can be made with high precision and reliability.
 
 ## Conclusion
 This portfolio of projects demonstrates proficiency and expertise in a wide range of data analysis techniques which were acquired through the completion of the certificate program. 
