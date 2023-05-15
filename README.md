@@ -2,7 +2,7 @@
 The following is a collection of projects that were completed as part of the Google Advanced Data Analytics Certificate. These projects were undertaken to demonstrate proficiency in various data skills and helped to provide practical experience in the data field.
 
 ## Projects Overview
-The Goolge Advanced Data Analytics Certificate consisted of 7 courses that covered essential topics including data inspection, exploratory data analysis, statistical analysis, regression modeling, and machine learning. Each course culminated in an end of course project which provided an opportunity to gain hands-on experience in the subject matter. The final course included a capstone project which can be viewed in a dedicated project repository [`insert name here`]
+The Google Advanced Data Analytics Certificate consisted of 7 courses that covered essential topics including data inspection, exploratory data analysis, statistical analysis, regression modeling, and machine learning. Each course culminated in an end of course project which provided an opportunity to gain hands-on experience in the subject matter. The final course included a capstone project which can be viewed in a dedicated project repository [`insert name here`]
 
 ## Notebooks
 This repository includes five Jupyter notebooks which each focus on a specific stage of the data project lifecycle:
